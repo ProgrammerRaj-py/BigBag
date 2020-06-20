@@ -1,0 +1,196 @@
+                                                                                /* color #47BAC1
+p #a6a6a6 */
+                                                                                    
+                                                                                    * {
+                                                                                        margin: 0;
+                                                                                        padding: 0;
+                                                                                    }
+                                                                                    
+                                                                                    hr {
+                                                                                        border-top: 2px solid #a6a6a6;
+                                                                                    }
+                                                                                    
+                                                                                    .img-fluid {
+                                                                                        width: 70%;
+                                                                                    }
+                                                                                    /* Home section */
+                                                                                    
+                                                                                    #home {
+                                                                                        background-color: #fff;
+                                                                                    }
+                                                                                    
+                                                                                    #home .container .bg-light {
+                                                                                        background-color: #fff !important;
+                                                                                    }
+                                                                                    
+                                                                                    #home .container .navbar .navbar-brand {
+                                                                                        font-weight: bold;
+                                                                                        font-size: 1.5rem;
+                                                                                    }
+                                                                                    
+                                                                                    #home .container .navbar .navbar-brand span,
+                                                                                    #home .container .navbar .navbar-collapse .navbar-nav .nav-item .nav-link:hover {
+                                                                                        color: #47BAC1 !important;
+                                                                                    }
+                                                                                    
+                                                                                    #home .container .navbar .navbar-collapse .navbar-nav .nav-item .nav-link {
+                                                                                        color: #000 !important;
+                                                                                        font-weight: 500;
+                                                                                    }
+                                                                                    /* lANDING PAGE */
+                                                                                    
+                                                                                    #landingPage {
+                                                                                        background-color: #f5f5f5;
+                                                                                        padding: 7% 0;
+                                                                                    }
+                                                                                    
+                                                                                    #landingPage .container .row .col-md-6 h3 {
+                                                                                        color: rgb(158, 96, 96);
+                                                                                        padding: 1rem 0;
+                                                                                    }
+                                                                                    
+                                                                                    #landingPage .container .row .col-md-6 p {
+                                                                                        color: #a6a6a6;
+                                                                                    }
+                                                                                    
+                                                                                    #landingPage .container .row .col-md-6 a {
+                                                                                        border: 2px solid #47BAC1;
+                                                                                        color: #000;
+                                                                                        font-weight: 700;
+                                                                                        margin-top: 3rem;
+                                                                                        border-radius: 0;
+                                                                                    }
+                                                                                    
+                                                                                    #landingPage .container .row .col-md-6 a:hover {
+                                                                                        color: #fff;
+                                                                                        background-color: #47BAC1;
+                                                                                    }
+                                                                                    /* Collections */
+                                                                                    
+                                                                                    #collection {
+                                                                                        padding: 5% 0;
+                                                                                    }
+                                                                                    
+                                                                                    #collection .row .col-md-4 a {
+                                                                                        text-decoration: none;
+                                                                                    }
+                                                                                    
+                                                                                    #collection .row .col-md-4 .card .card-heading {
+                                                                                        padding: 1rem 1rem;
+                                                                                        color: #000;
+                                                                                    }
+                                                                                    
+                                                                                    #collection .row .col-md-4 .card .card-heading p {
+                                                                                        color: #a6a6a6;
+                                                                                    }
+                                                                                    
+                                                                                    #collection .row .col-md-4 .card {
+                                                                                        background-color: #f5f5f5;
+                                                                                    }
+                                                                                    /* Product */
+                                                                                    
+                                                                                    #product {
+                                                                                        padding: 7% 0;
+                                                                                    }
+                                                                                    
+                                                                                    #product .row {
+                                                                                        margin-bottom: 2rem;
+                                                                                    }
+                                                                                    
+                                                                                    #product .row .col-md-4 .card .card-heading {
+                                                                                        background-color: #f5f5f5;
+                                                                                    }
+                                                                                    
+                                                                                    #product .row .col-md-4 .card .card-body p {
+                                                                                        color: #a6a6a6;
+                                                                                        font-weight: bold;
+                                                                                    }
+                                                                                    
+                                                                                    #product .row .col-md-4 .card .card-body a {
+                                                                                        border: 2px solid #47BAC1;
+                                                                                        color: #000;
+                                                                                        font-weight: 700;
+                                                                                        margin-top: 3rem;
+                                                                                        border-radius: 0;
+                                                                                    }
+                                                                                    
+                                                                                    #product .row .col-md-4 .card .card-body a:hover {
+                                                                                        color: #fff;
+                                                                                        background-color: #47BAC1;
+                                                                                    }
+                                                                                    /* Article Section */
+                                                                                    
+                                                                                    #article {
+                                                                                        padding: 7% 0;
+                                                                                    }
+                                                                                    
+                                                                                    #article .row .col-md-4 .card .card-body p {
+                                                                                        color: #a6a6a6;
+                                                                                    }
+                                                                                    
+                                                                                    #footer {
+                                                                                        padding: 3% 0;
+                                                                                        background-color: rgb(49, 46, 46);
+                                                                                        border-top: 6px solid #47BAC1;
+                                                                                    }
+                                                                                    
+                                                                                    #footer h1 {
+                                                                                        color: rgb(192, 189, 189);
+                                                                                    }
+                                                                                    
+                                                                                    #footer .nav-link,
+                                                                                    #footer p {
+                                                                                        color: grey;
+                                                                                        font-weight: 500;
+                                                                                    }
+                                                                                    
+                                                                                    #footer input {
+                                                                                        width: 100%;
+                                                                                        padding: 0.5rem 0.2rem;
+                                                                                        background: none;
+                                                                                        border: 2px solid #47BAC1;
+                                                                                        color: #fff;
+                                                                                    }
+                                                                                    
+                                                                                    #footer button {
+                                                                                        width: 100%;
+                                                                                        padding: 0.5rem 0;
+                                                                                        font-weight: bolder;
+                                                                                        background-color: #47BAC1;
+                                                                                        color: #fff;
+                                                                                        border: none;
+                                                                                        text-transform: uppercase;
+                                                                                    }
+                                                                                    
+                                                                                    #footer h5,
+                                                                                    #footer h6 {
+                                                                                        color: #47BAC1;
+                                                                                    }
+                                                                                    
+                                                                                    @media screen and (max-width:578px) {
+                                                                                        #landingPage .container .row .col-md-6 {
+                                                                                            padding-bottom: 1rem;
+                                                                                        }
+                                                                                        #landingPage .container .row .col-md-6,
+                                                                                        #product .row .col-md-4 .card .card-body,
+                                                                                        #article .row .col-md-4 .card .card-body,
+                                                                                        #footer .container .row .col-md-4 {
+                                                                                            text-align: center;
+                                                                                        }
+                                                                                        #collection,
+                                                                                        #product,
+                                                                                        #article,
+                                                                                        #footer {
+                                                                                            padding: 2rem;
+                                                                                        }
+                                                                                        #collection .row .col-md-4,
+                                                                                        #product .row .col-md-4,
+                                                                                        #article .row .col-md-4 {
+                                                                                            margin-bottom: 2rem;
+                                                                                        }
+                                                                                        #footer .container .row .col-md-4,
+                                                                                        #footer .container .row .col-md-4 .row .col-md-6 {
+                                                                                            margin-top: 3rem;
+                                                                                        }
+                                                                                    }
+                                                                                }
